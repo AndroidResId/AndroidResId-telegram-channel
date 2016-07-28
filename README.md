@@ -1,7 +1,11 @@
 # AndroidResId
 
-Channel in Telegram messenger.
-For Android developers. 
-Read only.
+Telegram messenger channel.
+Only for Android developers.
+Read only, not chat.
 Only main news of Android applications development industry.
-And the most important resources for Android developers.
+And the most important resources.
+
+https://telegram.me/AndroidResId
+
+Welcome.
