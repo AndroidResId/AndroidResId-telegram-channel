@@ -7,3 +7,5 @@ Only main news of Android applications development industry and the most importa
 https://telegram.me/AndroidResId
 
 Welcome.
+
+P.S. Please send us any feedbacks http://bit.ly/AndrResIdFb
