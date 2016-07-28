@@ -8,4 +8,4 @@ https://telegram.me/AndroidResId
 
 Welcome.
 
-P.S. Please send us any feedbacks http://bit.ly/AndrResIdFb
+P.S. Please send any feedbacks here http://bit.ly/AndrResIdFb
