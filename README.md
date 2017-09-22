@@ -1,4 +1,4 @@
-# AndroidResId
+# AndroidResId Telegram channel
 
 Telegram messenger channel for Android developers (channels in Telegram are read only, not for chat).
 
